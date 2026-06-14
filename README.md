@@ -27,8 +27,13 @@ Geleneksel projelerde sıklıkla görülen ve işlemciyi kilitleyen `HAL_Delay()
 * **Yaya Butonu (EXTI Giriş):** `button_Pin` (Yükselen Kenar Dış Kesmesi - RISING EXTI)
 * **Zamanlayıcı (Dahili):** `TIM2` (Kalp atışı periyodu için Prescaler ve Period ayarlı)
 
-## 🚀 Kurulum ve Kullanım
 
-1. Bu projeyi bilgisayarınıza klonlayın:
-   ```bash
-   git clone [https://github.com/KULLANICI_ADINIZ/STM32-Interrupt-Traffic-Light.git](https://github.com/KULLANICI_ADINIZ/STM32-Interrupt-Traffic-Light.git)
+
+### 👨‍💻 Geliştirici / Developer
+<p align="center">
+  <b>Yavuz ÇANDIR</b>
+  <br>
+  <a href="https://github.com/YavuzCandirr" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-YavuzCandirr-black?logo=github" alt="GitHub">
+  </a>
+</p>
